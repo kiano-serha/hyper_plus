@@ -1,0 +1,5 @@
+@media only screen and (max-width:768px) {
+  #ucc_logo {
+    display: none !important;
+  }
+}
